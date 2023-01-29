@@ -3,7 +3,8 @@ This program is used to detect drowsiness for any given person. In this program 
 The program contains 3 files, which are
 
 Files
-face_and_eye_detector_single_image.py - Detects face and eye from a single image. Demo-
+face_and_eye_detector_single_image.py - Detects face and eye from a single image.
+Demo-
 Test Image	Result Image
 face_and_eye_detector_webcam_video.py - Detects face and eye in a webcam feed by userWebcam Face and Eye Detection
 drowsiness_detect.py- This script detects if person is drowsy or not using webcam video feed
